@@ -6,18 +6,83 @@
   <body>
     <h1> CAPTCHA - Findings of the Research Questions Task force</h1>
     <h2>Purpose</h2>
-    <p>This documents summarizes findings of the <a href="https://www.w3.org/WAI/APA/task-forces/research-questions/">Research Questions Task Force</a> that are intended to inform revision of the W3C Working Group note: <a href="https://www.w3.org/TR/turingtest/">Inaccessibility of CAPTCHA: Alternatives to Visual Turing Tests on the Web</a>. All references in this document to sections apply to the 23 November 2005 Working Group Note.
+    <p>This documents summarizes findings of the <a
+    href="https://www.w3.org/WAI/APA/task-forces/research-questions/">Research
+    Questions Task Force</a> that are intended to inform revision of
+    the W3C Working Group note: <a
+    href="https://www.w3.org/TR/turingtest/">Inaccessibility of
+    CAPTCHA: Alternatives to Visual Turing Tests on the Web</a>. All
+    references in this document to sections apply to the 23 November
+    2005 Working Group Note.
     <h2>Section 1</h2>
-    <p>[Discuss auditory as well as visual CAPTCHA, as they are more common now than they were in 2005. Note relevant research findings regarding the difficulty of using auditory CAPTCHA and improvements that can be made to the UI to address some of the concerns. Note investigation of the challenges posed by CAPTCHA to users with learning/cognitive disabilities, and internationalization concerns resulting from reliance on the Roman alphabet in character recognition challenges. perhaps a brief statement should be given here, with a cross-reference to more detailed discussion in section 3.2.]
-    <h2>Section 1.1</h2>
-    <p>[Note the literature regarding limitations of the effectiveness of CAPTCHA as a security mechanism.]
-    <h2>Section 3.2</h2>
-    <p>[This is where we should enter into a more detailed treatment of the limitations of auditory CAPTCHA, as demonstrated by research, even if we note its relevance to section 1. Perhaps passchords should be mentioned here, though they're more of an authentication technique than a CAPTCHA alternative.]
+    <p>Current CAPTCHA
+    methods that rely primarily on text-based or image-based problems
+    can be largely cracked using both complex and simple computer
+    algorithms. Research suggests that approximately 20% of
+    traditional CAPTHCAs can be broken using OCR algorithms
+    (Hernández‐Castro, C. J., Barrero, D. F., & R‐Moreno, M. D.,
+    2016)(Li, Q., 2015). In addition, pattern-matching algorithms in
+    some instances can achieve an even higher success crate of
+    cracking CAPTCHAs (Yan, J., & El Ahmad, A. S., 2009)(Sano, S.,
+    Otsuka, T., Itoyama, K., & Okuno, H. G., 2015). While efforts are
+    being made to strengthen traditional CAPTCHA security, more robust
+    security solutions run the risk of reducing the abilities for
+    typical users to understand the CATPCHA that needs to be resolved
+    (Nakaguro, Y., Dailey, M. N., Marukatat, S., & Makhanov, S. S.,
+    2013).
+
+    <p>In addition, there is currently a reliance on the assumption that all web users can understand the English character set which is not the case . Examples such as Arabic and Thai  demonstrate the barriers associated with CAPTCHAs based on written English and related language character sets (Tangmanee, C., 2016).
+    <p>Although auditory forms of CAPTCHA that present distorted speech create recognition difficulties for screen reader users, the accuracy with which such users can complete the CAPTCHA tasks is increased if the user interface is carefully designed to prevent screen reader audio and CAPTCHA audio from being intermixed. This can be achieved by implementing functions for controlling the audio that do not require the user to move focus away from the text response field (Bigham, J. P., & Cavender, A. C. 2009).
+<h2>Section 3 (Alternatives)</h2>
+<h3>Google reCATPCHA ‘I am not a robot’ tick box</h3> 
+
+<p>Anecdotal evidence suggests that the Google captcha which requires users to tick a box stating ‘I am not a robot’ is currently the most accessible CAPTCHA solution and can be completed with a variety of assistive technologies. However, there is little formalised research investigating if this is indeed the case. RQTF recommends that additional research is conducted to verify the accessibility of this solution.  There is also the additional concern that the inability of completing the reCATPCHA tends to default back to a traditional inaccessible CAPTCHA. 
+
+<h3>Multiple User Devices </h3>
+
+<p>The user of multiple devices such as a computer, smartphone, tablet and/or wearable could provide additional support for user authentication. This could assist in addressing accessibility issues by using assistive technologies on each device to confirm the user is a human and is a specific user (Cetin, C., 2015).
+
+<h3>Video CAPTCHA </h3>
+
+<p>Some emerging CAPTCHA processes use video in which users can visually identify elements and respond in text. This poses some accessibility issues for users that cannot visually identify the elements contained in  video (Catuogno, L., & Galdi, C., 2014) (Kluever, K., 2008)
+
+<h3>Visual comparison CAPTCHAs </h3>
+
+<p>There are a number of new techniques based on the identification of still images.  This can include identifying whether an image is a man or a woman, or whether an image is human-shaped or avatar-shaped among other comparison solutions (Conti, M., Guarisco, C., & Spolaor, R., 2015)( Kim, J., Kim, S., Yang, J., Ryu, J.-h., & Wohn, K., 2014)( Korayem, M., 2015). 
+
+<p>While alternative audio comparison CAPTCHAs could be provided such as using similar or different tones for comparison, the reliance on visual comparison alone would be difficult for people with vision-related disabilities 
+
+<h3>Video Game CAPTCHA</h3>
+
+<p>This process suggests the completion of a basic video game as a CAPTCHA. The benefits include the removal of language barriers, and multiple interface methods could potentially make such a solution accessible (Yang, T.-I., Koong, C.-S., & Tseng, C.-C., 2015). It would also have the benefit of making CAPCHAs an enjoyable process, reducing the frustrations generally associated with traditional CAPTCHAs. 
+
+<h3>3D CAPTCHA</h3>
+
+<p>A 3D representation of letters and numbers can make it more difficult for OCR software to identify, in turn making it more secure (Nguyen, V. D., Chow, Y.-W., & Susilo, W., 2014). However this solution has similar accessibility issues to traditional CPATCHas. 
+
+<p>We recommend further exploration of the use of risk analysis techniques (as exemplified by the approach that Google have taken) to reduce the need for CAPTCHA.
     <h2>Section 3.4.1</h2>
     <p>[Continuous authentication and risk analysis engines could be mentioned here.]
     <h2>Section 3.5 (entire section)</h2>
     <p>[Suggest updating discussion of federated identity, but we don't have research on this point. Add discussion of biometrics accessibility and E.U./U.S. government requirements to section 3.5.3. Explain the growing popularity of dual-factor authentication and how it might assist with the CAPTCHA problem (is it an instance of federated identity in this context - that is, when accessing a new Web site for the first time?).]</p>
     <h2>References</h2>
-    <p>[Add references here.]
+    <ul>
+<li>Bigham, J. P., & Cavender, A. C. (2009, April). Evaluating existing audio CAPTCHAs and an interface optimized for non-visual use. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems
+      <li>Catuogno, L., & Galdi, C. (2014). On user authentication by means of video events recognition. Journal of Ambient Intelligence and Humanized Computing, 5(6), 909-918. doi:10.1007/s12652-014-0248-5
+<li>Cetin, C. (2015). Design, Testing and Implementation of a New Authentication Method Using Multiple Devices. In J. Ligatti, D. Goldgof, & Y. Liu (Eds.): ProQuest Dissertations Publishing.
+<li>Conti, M., Guarisco, C., & Spolaor, R. (2015). CAPTCHaStar! A novel CAPTCHA based on interactive shape discovery. 
+<li>Hernández‐Castro, C. J., Barrero, D. F., & R‐Moreno, M. D. (2016). Machine learning and empathy: the Civil Rights CAPTCHA. Concurrency and Computation: Practice and Experience, 28(4), 1310-1323. doi:10.1002/cpe.3632
+<li>Kim, J., Kim, S., Yang, J., Ryu, J.-h., & Wohn, K. (2014). FaceCAPTCHA: a CAPTCHA that identifies the gender of face images unrecognized by existing gender classifiers. An International Journal, 72(2), 1215-1237. doi:10.1007/s11042-013-1422-z
+<li>Kluever, K. (2008). Evaluating the usability and security of a video CAPTCHA. In R. Zanibbi, Z. Butler, & R. Canosa (Eds.): ProQuest Dissertations Publishing.
+<li>Korayem, M. (2015). Social and egocentric image classification for scientific and privacy applications. In D. Crandall, J. Bollen, A. Kapadia, & P. Radivojac (Eds.): ProQuest Dissertations Publishing.
+<li>Li, Q. (2015). A computer vision attack on the ARTiFACIAL CAPTCHA. An International Journal, 74(13), 4583-4597. doi:10.1007/s11042-013-1823-z
+<li>Nakaguro, Y., Dailey, M. N., Marukatat, S., & Makhanov, S. S. (2013). Defeating line-noise CAPTCHAs with multiple quadratic snakes. Computers & Security, 37, 91-110. doi:10.1016/j.cose.2013.05.003
+<li>Nguyen, V. D., Chow, Y.-W., & Susilo, W. (2014). On the security of text-based 3D CAPTCHAs. Computers & Security, 45, 84-99. doi:10.1016/j.cose.2014.05.004
+<li>Sano, S., Otsuka, T., Itoyama, K., & Okuno, H. G. (2015). HMM-based Attacks on Google's ReCAPTCHA with Continuous Visual and Audio Symbols. Journal of Information Processing, 23(6), 814-826. doi:10.2197/ipsjjip.23.814
+<li>Tangmanee, C. (2016). Effects of Text Rotation, String Length, and Letter Format on Text-based CAPTCHA Robustness. Journal of Applied Security Research, 11(3), 349-361. doi:10.1080/19361610.2016.1178553
+<li>Yan, J., & El Ahmad, A. S. (2009). CAPTCHA Security: A Case Study. Security & Privacy, IEEE, 7(4). doi:10.1109/MSP.2009.84
+<li>Yeh, H. T., Chen, B. C., & Wu, Y. C. (2013). Mobile user authentication system in cloud environment. Security and Communication Networks, 6(9), 1161-1168. doi:10.1002/sec.688
+<li>Yang, T.-I., Koong, C.-S., & Tseng, C.-C. (2015). Game-based image semantic CAPTCHA on handset devices. An International Journal, 74(14), 5141-5156. doi:10.1007/s11042-013-1666-7
+</ul>
   </body>
 </html>
