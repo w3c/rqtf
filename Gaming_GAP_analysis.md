@@ -19,6 +19,24 @@ As much as possible a good candidate should attempt to be comprehensive to enabl
 #### Collaborative 
 A good candidate should invite critique from as wide a range of stakeholders as possible to enable it to be as comprehensive and fit for purpose as possible. 
 
+## Intentional friction
+There is a body of work that highlights the need for some friction in gaming meaning that a standard approach to accessibility of trying to remove all barriers is inappropriate.
+
+### The perception of difficulty
+[Ian Hamilton's Difficulty vs Accessibility talk](youtube.com/watch?v=sPehhHZvKE8&feature=youtu.be) at GAConf USA 2021 highlighted that there is no fixed difficulty for a game. Games present barriers and players have capabilities and the level of difficulty that arises comes from trying to overcome the given barriers with a user's unique set of capabilities. Disabled people will have reduced capabilities meaning they will face higher difficulty for the same set of presented barriers. He states that "Accessibility = avoiding unnecessary mismatch between capability and barrier". Steve Saylor framed this to say that accessibility is a way to [bring the difficulty back towards the intended level](https://kotaku.com/accessibility-difficulty-easy-mode-explained-1851261475).  
+
+### The need to preserve inaccessibility 
+In the [IGDA-GASIG page on how to make games accessible](https://igda-gasig.org/how/) it states:
+"All games must contain some degree of inaccessibility in order to be a game. There must be some kind of challenge. This necessary inaccessibility varies from game to game. It makes accessibility an optimisation process – thinking about the barriers your game may present, which of those are a necessary part of what makes it fun, and which are not."
+
+### Game Accessibility Paradox
+In the article [Game accessibility course design modules in higher education](https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2024.1182541/full)) Thomas Westin describes this as the Game Accessibility Paradox 
+
+- game rules vs mechanics
+- "...there are for instance few games if any where the core game mechanic is to be able to read text in small font sizes, yet this challenge is often present."
+
+These examples highlight the need to retain some inaccessible features to preserve the challenge of a game but make no recommendation of a formal process to identify which features need retaining. 
+
 ## Existing accessibility Guidelines
 
 ### Game Accessibility Guidelines
