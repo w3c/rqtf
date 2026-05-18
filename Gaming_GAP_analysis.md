@@ -1,11 +1,13 @@
 # GAP analysis of accessibility standards in Gaming
 
 ## Purpose
-To bring about or identify a description of good user experience in the realm of accessible gaming that can be used as a stepping-stone to a games accessibility standard. 
+To identify or bring about a description of good user experience in the realm of accessible gaming that can be used as a stepping-stone to a games accessibility standard. 
 
-### Characteristics of a good candidate 
+### Characteristics of an ideal candidate 
+These are the characteristics of an ideal candidate which current resources will be judged against. This is not to say that a GAUR if created would be able to fulfil all of these but it would aim to.  
+
 #### Focus on the user experience
-A good candidate would attempt to describe good user experience as a first step towards an accessibility standard. By focusing on the requirements of the user rather than the options available to a developer the candidate can describe 'what good looks like' regardless of how achievable 'good' is with current technologies. 
+A good candidate would attempt to describe good user experience as a first step towards an accessibility standard. By focusing on the requirements of the user rather than the options available to a developer the candidate can describe 'what good looks like' regardless of how achievable 'good' is with current technologies. This is important to enable a realistic assesment of progress and also to futureproof the work.
 
 #### Understand intentional friction in gaming
 Any accessibility standard will need to avoid mandating 'fundamental alteration' and gaming requires intentional friction in order to provide a challenge. A good candidate should differentiate between intentional and unintentional friction (signal vs noise) to preserve what makes games engaging while minimising inaccessibility. This should enable it to inform the creation of a workable standard.    
@@ -13,14 +15,14 @@ Any accessibility standard will need to avoid mandating 'fundamental alteration'
 #### Cover multiple disabilities
 A good candidate should cover as wide a range if disabilities as is practical including sight loss, hearing loss, neurodiversity, cognitive impairments and physical disabilities.
 
-#### Comprehensive
-As much as possible a good candidate should attempt to be comprehensive to enable any standards it informs to also be as comprehesive as possible. This may require a level of abstraction in order to avoid too many gaps. 
+#### Comprehensive 
+As much as possible a good candidate should attempt to be comprehensive to enable any standards it informs to also be as comprehesive as possible. This may require a high level of abstraction in order to avoid gaps. 
 
 #### Collaborative 
 A good candidate should invite critique from as wide a range of stakeholders as possible to enable it to be as comprehensive and fit for purpose as possible. 
 
 ## Intentional friction
-There is a body of work that highlights the need for some friction in gaming meaning that a standard approach to accessibility of trying to remove all barriers is inappropriate.
+There is a body of work that highlights the need for some friction in gaming, meaning that a standard approach to accessibility of trying to remove all friction or barriers is inappropriate.
 
 ### The perception of difficulty
 [Ian Hamilton's Difficulty vs Accessibility talk](youtube.com/watch?v=sPehhHZvKE8&feature=youtu.be) at GAConf USA 2021 highlighted that there is no fixed difficulty for a game. Games present barriers and players have capabilities and the level of difficulty that arises comes from trying to overcome the given barriers with a user's unique set of capabilities. Disabled people will have reduced capabilities meaning they will face higher difficulty for the same set of presented barriers. He states that "Accessibility = avoiding unnecessary mismatch between capability and barrier". Steve Saylor framed this to say that accessibility is a way to [bring the difficulty back towards the intended level](https://kotaku.com/accessibility-difficulty-easy-mode-explained-1851261475).  
@@ -61,10 +63,12 @@ The accessible gaming devkit from RNIB (Royal National Institute of Blind People
 ### HTML accessible Taskforce note on gaming
 [HTML accessible Taskforce note on gaming](https://www.w3.org/WAI/PF/HTML/wiki/Gaming.html)
 This is a short note that says:
+
 "Explore needs for gaming
 
 Some work that was done external to W3C has some interesting best practices for gaming accessibility: [Game accessibility guidelines] won the intellectual and developmental disabilities category of the annual US Federal Communications Commission Chairman's Awards for Advancements in Accessibility"
 
+The existence of the page implies that the HTML group sees the value in work on accessible gaming whilst the incompleteness or brevity of the page likely suggests that progress has been limited.
 
 ### 2018 Workshop
 [W3C Workshop on Web Games Position Paper: Adaptive Accessibility](https://www.w3.org/2018/12/games-workshop/papers/web-games-adaptive-accessibility.html)
