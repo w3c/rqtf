@@ -10,7 +10,7 @@ These are the characteristics of an ideal candidate which current resources will
 A good candidate would attempt to describe good user experience as a first step towards an accessibility standard. By focusing on the requirements of the user rather than the options available to a developer the candidate can describe 'what good looks like' regardless of how achievable 'good' is with current technologies. This is important to enable a realistic assesment of progress and also to futureproof the work.
 
 #### Understand intentional friction in gaming
-Any accessibility standard will need to avoid mandating 'fundamental alteration' and gaming requires intentional friction in order to provide a challenge. A good candidate should differentiate between intentional and unintentional friction (signal vs noise) to preserve what makes games engaging while minimising inaccessibility. This should enable it to inform the creation of a workable standard.    
+Any accessibility standard will need to avoid requiring 'fundamental alteration' and gaming requires intentional friction in order to provide a challenge. A good candidate should differentiate between intentional and unintentional friction (signal vs noise) to preserve what makes games engaging while minimising inaccessibility. This should enable it to inform the creation of a workable standard.    
 
 #### Cover multiple disabilities
 A good candidate should cover as wide a range if disabilities as is practical including sight loss, hearing loss, neurodiversity, cognitive impairments and physical disabilities.
@@ -50,21 +50,25 @@ The Game Accessibility Guidelines provide a comprehensive menu of games accessib
 #### AbleGamers Toolkit
 [Accessible Player Experiences (APX)](https://accessible.games/accessible-player-experiences/)
 
+
 #### RNIB Devkit
 [RNIB Best Practice in Accessible Gaming 2025](https://github.com/RNIB-MediaAndCulture/Gaming_Devkit/blob/main/Devkit.md)
-The accessible gaming devkit from RNIB (Royal National Institute of Blind People) contains high level advice for games developers. A unique feature is the CAPS test which states that Challenge, Agency, Participation and Story are important in gaming and these need to be preserved to ensure that game is still attractive to gamers with disabilities.
+The accessible gaming devkit from RNIB (Royal National Institute of Blind People) contains high level advice for games developers. A unique feature is the CAPS test which states that Challenge, Agency, Participation and Story are important in gaming and these need to be preserved to ensure that game is still attractive to gamers with disabilities. Whilst it recognises the need for challenge the Devkit is focussed on accessibility for gamers with sightloss.
 
 #### WCAG
+
 
 #### ADP from ACB
 Audio Description Project (ADP) Gaming Subcommittee
 
-[Best Practices for Audio Description in Video Games](https://adp.acb.org/sites/default/files/2025-11/AD%20in%20Gaming%20Best%20Practices%20%281%29.docx)
+ACB has produced a [Best Practices for Audio Description in Video Games](https://adp.acb.org/sites/default/files/2025-11/AD%20in%20Gaming%20Best%20Practices%20%281%29.docx) document. This just focuses on audio description within a game which is not comprehensive and serves a narrow group of beneficiaries.  
 
 
 ### Applicable user requirements documents
 
 #### XAUR
+
+#### MAUR
 
 ### Existing work within W3C
 #### HTML accessible Taskforce note on gaming
@@ -78,7 +82,13 @@ Some work that was done external to W3C has some interesting best practices for 
 The existence of the page implies that the HTML group sees the value in work on accessible gaming whilst the incompleteness or brevity of the page likely suggests that progress has been limited.
 
 #### 2018 Workshop
-[W3C Workshop on Web Games Position Paper: Adaptive Accessibility](https://www.w3.org/2018/12/games-workshop/papers/web-games-adaptive-accessibility.html)
+In 2018 the W3C held the [W3C Workshop on Web Games Position Paper: Adaptive Accessibility](https://www.w3.org/2018/12/games-workshop/papers/web-games-adaptive-accessibility.html) to propose an Active Games Accessibility (AGA) framework which would create a bridge between games and access technology such as screenreaders, magnifiers and adaptive I/O devices. This would function similar to ARIA or MSAA on Windows. It was suggested the framework could work at three levels: built into the specific game, built into the game engine and external to both the game and the engine.
+
+The workshop was a proposal for a solution rather than a declaration of user needs.
+
+#### FAST
+The [Framework for Accessible Specifications of Technologies](https://w3c.github.io/fast/#checklist) is ongoing work within W3C that attempts to identify user needs and the adaptations that may be needed to make those needs accessible. There is an accompanying checklist to help developers identify where their standards may fail accessibility-wise.
+
 
 ### WAI
 
