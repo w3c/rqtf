@@ -89,6 +89,10 @@ The workshop was a proposal for a solution rather than a declaration of user nee
 #### FAST
 The [Framework for Accessible Specifications of Technologies](https://w3c.github.io/fast/#checklist) is ongoing work within W3C that attempts to identify user needs and the adaptations that may be needed to make those needs accessible. There is an accompanying checklist to help developers identify where their standards may fail accessibility-wise.
 
+### Digital Accessibility Framework
+The [Digital Accessibility Framework](https://accessiblecommunity.org/daf) extends the idea of FAST to all digital technologies and attempts to create a comprehensive mapping of user needs to ways to address those needs through a diverse range of methods and modalities. A stated aim is to be futureproof and the framework therefore covers a far wider set of user experiences than are currently found in gaming or expected in the near future (such as smell and taste). 
+
+The Digital Accessibility Framework is focused on user needs, it is pan disability and it is very comprehensive. Being a multi-use tool it doesn't include the requirement for challenge in gaming and it is also a very low level tool in that it looks at user experience at a very fine granularity. This makes it helpful to design and test a targeted accessibility user requirements document but it is likely too technical and too broad in scope to be usable as one.    
 
 ### WAI
 
