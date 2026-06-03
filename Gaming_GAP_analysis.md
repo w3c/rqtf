@@ -44,7 +44,7 @@ These examples highlight the need to retain some inaccessible features to preser
 
 #### Game Accessibility Guidelines
 [Game Accessibility Guidelines](https://gameaccessibilityguidelines.com/)
-The Game Accessibility Guidelines provide a comprehensive menu of games accessibility advice organised into Basic, Intermediate and Advanced. 
+The Game Accessibility Guidelines provide a fairly comprehensive menu of games accessibility advice organised into Basic, Intermediate and Advanced. 
 
 
 #### AbleGamers Toolkit
