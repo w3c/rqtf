@@ -67,7 +67,7 @@ ACB has produced a [Best Practices for Audio Description in Video Games](https:/
 ### Applicable user requirements documents
 
 #### XAUR
-
+The [XR Accessibility User Requirements](https://www.w3.org/TR/xaur/)
 #### MAUR
 
 ### Existing work within W3C
