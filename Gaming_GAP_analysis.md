@@ -46,10 +46,8 @@ These examples highlight the need to retain some inaccessible features to preser
 [Game Accessibility Guidelines](https://gameaccessibilityguidelines.com/)
 The Game Accessibility Guidelines provide a fairly comprehensive menu of games accessibility advice organised into Basic, Intermediate and Advanced. 
 
-
 #### AbleGamers Toolkit
 [Accessible Player Experiences (APX)](https://accessible.games/accessible-player-experiences/)
-
 
 #### RNIB Devkit
 [RNIB Best Practice in Accessible Gaming 2025](https://github.com/RNIB-MediaAndCulture/Gaming_Devkit/blob/main/Devkit.md)
@@ -78,9 +76,6 @@ The [XR Accessibility User Requirements](https://www.w3.org/TR/xaur/) describes 
 
 #### MAUR
 The [Media Accessibility User Requirements](https://www.w3.org/TR/media-accessibility-reqs/) contain user requirements that relate to audio and visual content on the web. There will be crossover with gaming but much of the advice will be most relevent to cutscenes and games trailers. Intentional friction is not a relevent concept for the MAUR.   
-
-#### RAUR
-The [RTC Accessibility User Requirements](https://www.w3.org/TR/raur/#what-is-real-time-communication-rtc) 
 
 #### NAUR
 The [Natural Language Interface Accessibility User Requirements](https://www.w3.org/TR/naur/) describes user requirements for natural language applications. This is relevent for a small number of current games. The number of games relying on natural language interfaces may increase with more ubiquitious use of AI but is likely to remain only a subset of the games ecosystem.  Intentional friction is not a relevent concept for the NAUR. 
