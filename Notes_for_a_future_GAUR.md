@@ -6,7 +6,8 @@
 - an attempt at universality (after describing known mechanisms offer interactiuon patterns that may match new gameplay mechanics)
 
 ## Potential structure
-- intro,
-- intentional vs unintentional friction,
-- part 1 Which gaming elements impact which disability groups?,
+- intro
+- intentional vs unintentional friction
+- part 1 Which gaming elements impact which disability groups?
 - part 2 What features can help?
+- List of current accessibility standards that may relate to games?
