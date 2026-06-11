@@ -105,8 +105,6 @@ The [Digital Accessibility Framework](https://accessiblecommunity.org/daf) exten
 
 The Digital Accessibility Framework is focused on user needs, it is pan disability and it is very comprehensive. Being a multi-use tool it doesn't include the requirement for challenge in gaming and it is also a very low level tool in that it looks at user experience at a very fine granularity. This makes it helpful to design and test a targeted accessibility user requirements document but it is likely too technical and too broad in scope to be usable as one.    
 
-### WAI
-
 ## Evaluation of existing resources
 
 ## Proposal
