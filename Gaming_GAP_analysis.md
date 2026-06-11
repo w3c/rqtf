@@ -61,14 +61,16 @@ The accessible gaming devkit from RNIB (Royal National Institute of Blind People
 #### ADP from ACB
 Audio Description Project (ADP) Gaming Subcommittee
 
-ACB has produced a [Best Practices for Audio Description in Video Games](https://adp.acb.org/sites/default/files/2025-11/AD%20in%20Gaming%20Best%20Practices%20%281%29.docx) document. This just focuses on audio description within a game which is not comprehensive and serves a narrow group of beneficiaries.  
+ACB has produced a [Best Practices for Audio Description in Video Games](https://adp.acb.org/sites/default/files/2025-11/AD%20in%20Gaming%20Best%20Practices%20%281%29.docx) document. This focuses on audio description within a game. This is not comprehensive enough to be used as a GAUR.  
 
 
 ### Applicable user requirements documents
 
 #### XAUR
-The [XR Accessibility User Requirements](https://www.w3.org/TR/xaur/)
+The [XR Accessibility User Requirements](https://www.w3.org/TR/xaur/) describes user requirements for extended reality including virtual reality (a virtual world a user can explore), augmented reality (virtual elements overlaid on the real world), 360 content (immersive content a user can look around in while it's playing) and similar immersive virtual, or semi-virtual environments. It doesn't cover as broad a scope as gaming and doesn't contain discussion of intentional friction.
+
 #### MAUR
+
 
 ### Existing work within W3C
 #### HTML accessible Taskforce note on gaming
