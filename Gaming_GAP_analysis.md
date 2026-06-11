@@ -70,7 +70,13 @@ ACB has produced a [Best Practices for Audio Description in Video Games](https:/
 The [XR Accessibility User Requirements](https://www.w3.org/TR/xaur/) describes user requirements for extended reality including virtual reality (a virtual world a user can explore), augmented reality (virtual elements overlaid on the real world), 360 content (immersive content a user can look around in while it's playing) and similar immersive virtual, or semi-virtual environments. It doesn't cover as broad a scope as gaming and doesn't contain discussion of intentional friction.
 
 #### MAUR
+The [Media Accessibility User Requirements](https://www.w3.org/TR/media-accessibility-reqs/) contain user requirements that relate to audio and visual content on the web. There will be crossover with gaming but much of the advice will be most relevent to cutscenes and games trailers. Intentional friction is not a relevent concept for the MAUR.   
 
+#### RAUR
+The [RTC Accessibility User Requirements](https://www.w3.org/TR/raur/#what-is-real-time-communication-rtc) 
+
+#### NAUR
+The [Natural Language Interface Accessibility User Requirements](https://www.w3.org/TR/naur/) describes user requirements for natural language applications. This is relevent for a small number of current games. The number of games relying on natural language interfaces may increase with more ubiquitious use of AI but is likely to remain only a subset of the games ecosystem.  Intentional friction is not a relevent concept for the NAUR. 
 
 ### Existing work within W3C
 #### HTML accessible Taskforce note on gaming
@@ -90,6 +96,9 @@ The workshop was a proposal for a solution rather than a declaration of user nee
 
 #### FAST
 The [Framework for Accessible Specifications of Technologies](https://w3c.github.io/fast/#checklist) is ongoing work within W3C that attempts to identify user needs and the adaptations that may be needed to make those needs accessible. There is an accompanying checklist to help developers identify where their standards may fail accessibility-wise.
+
+#### Making Content Usable for People with Cognitive and Learning Disabilities
+The document [Making Content Usable for People with Cognitive and Learning Disabilities](https://www.w3.org/TR/coga-usable/#background) covers user requirements for people with cognitive and learning disabilities as well as relevent design patterns, a set of use cases and personas and advice on user testing with this audience. It covers a diverse audience but is not pan-disability. Intentional friction is not relevent to this document. 
 
 ### Digital Accessibility Framework
 The [Digital Accessibility Framework](https://accessiblecommunity.org/daf) extends the idea of FAST to all digital technologies and attempts to create a comprehensive mapping of user needs to ways to address those needs through a diverse range of methods and modalities. A stated aim is to be futureproof and the framework therefore covers a far wider set of user experiences than are currently found in gaming or expected in the near future (such as smell and taste). 
