@@ -56,15 +56,22 @@ The Game Accessibility Guidelines provide a fairly comprehensive menu of games a
 The accessible gaming devkit from RNIB (Royal National Institute of Blind People) contains high level advice for games developers. A unique feature is the CAPS test which states that Challenge, Agency, Participation and Story are important in gaming and these need to be preserved to ensure that game is still attractive to gamers with disabilities. Whilst it recognises the need for challenge the Devkit is focussed on accessibility for gamers with sightloss.
 
 #### WCAG
-
+The [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/) are currently at version 2.2 and are already being used to assess games accessibility in the case of Section 508 in the USA.  
 
 #### ADP from ACB
 Audio Description Project (ADP) Gaming Subcommittee
 
 ACB has produced a [Best Practices for Audio Description in Video Games](https://adp.acb.org/sites/default/files/2025-11/AD%20in%20Gaming%20Best%20Practices%20%281%29.docx) document. This focuses on audio description within a game. This is not comprehensive enough to be used as a GAUR.  
 
+#### Xbox Accessibility Guidelines
+[Xbox Accessibility Guidelines](https://learn.microsoft.com/en-us/gaming/accessibility/guidelines) 
 
 ### Applicable user requirements documents
+
+#### ISO/IEC 29138-1:2018
+
+### EN 301 549
+
 
 #### XAUR
 The [XR Accessibility User Requirements](https://www.w3.org/TR/xaur/) describes user requirements for extended reality including virtual reality (a virtual world a user can explore), augmented reality (virtual elements overlaid on the real world), 360 content (immersive content a user can look around in while it's playing) and similar immersive virtual, or semi-virtual environments. It doesn't cover as broad a scope as gaming and doesn't contain discussion of intentional friction.
