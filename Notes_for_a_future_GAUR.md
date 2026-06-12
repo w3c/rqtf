@@ -3,7 +3,8 @@
 ## Elements to include
 - a discussion of Intential vs Unintentianal friction,
 - potentially a list of desirable friction (examples of friction and barriers that are essential parts of gameplay),
-- an attempt at universality (after describing known mechanisms offer interactiuon patterns that may match new gameplay mechanics)
+- suggestions on how to avoid unneccessary friction while retaining challenge (for described examples of challenge suggest ways to make them accessible),
+- an attempt at universality (after describing known mechanisms offer interaction patterns that may match new gameplay mechanics)
 
 ## Potential structure
 - intro
