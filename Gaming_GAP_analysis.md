@@ -47,7 +47,7 @@ These examples highlight the need to retain some inaccessible features to preser
 The Game Accessibility Guidelines provide a fairly comprehensive menu of games accessibility advice organised into Basic, Intermediate and Advanced. 
 
 #### AbleGamers Toolkit
-The [Accessible Player Experiences (APX)](https://accessible.games/accessible-player-experiences/) from AbleGamers breaks game accessibility down into a set of design patterns organised about the things a developer should do to create accessibility. These are explained in terms of the accessibility use cases but are not split into groups based on the beneficiary audiences.   
+The [Accessible Player Experiences (APX)](https://accessible.games/accessible-player-experiences/) from AbleGamers breaks game accessibility down into a set of design patterns organised about the things a developer should do to create accessibility. These are explained in terms of the accessibility use cases but are not split into groups based on the beneficiary audiences. The guidelines give named examples of the design patterns in existing games to provide illustrative use cases.    
 
 #### RNIB Devkit
 [RNIB Best Practice in Accessible Gaming 2025](https://github.com/RNIB-MediaAndCulture/Gaming_Devkit/blob/main/Devkit.md)
