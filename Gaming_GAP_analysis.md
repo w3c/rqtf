@@ -47,7 +47,7 @@ These examples highlight the need to retain some inaccessible features to preser
 The Game Accessibility Guidelines provide a fairly comprehensive menu of games accessibility advice organised into Basic, Intermediate and Advanced. 
 
 #### AbleGamers Toolkit
-[Accessible Player Experiences (APX)](https://accessible.games/accessible-player-experiences/)
+The [Accessible Player Experiences (APX)](https://accessible.games/accessible-player-experiences/) from AbleGamers breaks game accessibility down into a set of design patterns organised about the things a developer should do to create accessibility. These are explained in terms of the accessibility use cases but are not split into groups based on the beneficiary audiences.   
 
 #### RNIB Devkit
 [RNIB Best Practice in Accessible Gaming 2025](https://github.com/RNIB-MediaAndCulture/Gaming_Devkit/blob/main/Devkit.md)
@@ -67,9 +67,10 @@ ACB has produced a [Best Practices for Audio Description in Video Games](https:/
 ### Applicable user requirements documents
 
 #### ISO/IEC 29138-1:2018
+ISO/IEC 29138-1:2018 sets out user needs for all audiences. (I haven't been able to access the full document, just Annex B which lists the user needs). 
 
 #### EN 301 549
-
+[EN 301549:2021. Accessibility requirements for ICT products and services](https://accessible-eu-centre.ec.europa.eu/content-corner/digital-library/en-3015492021-accessibility-requirements-ict-products-and-services_en) "defines the requirements that products and services based on information and communication technologies (ICT) should meet to enable their use by persons with disabilities." 
 
 #### XAUR
 The [XR Accessibility User Requirements](https://www.w3.org/TR/xaur/) describes user requirements for extended reality including virtual reality (a virtual world a user can explore), augmented reality (virtual elements overlaid on the real world), 360 content (immersive content a user can look around in while it's playing) and similar immersive virtual, or semi-virtual environments. It doesn't cover as broad a scope as gaming and doesn't contain discussion of intentional friction.
