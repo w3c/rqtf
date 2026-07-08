@@ -52,7 +52,7 @@ Players with physical disabilities or reduced dexterity may be unable to achieve
 
 
 ### Differentiation
-Players with neurodiversity or cognitive impairments may struggle with differention challenges but inaccessibility from this type of challenge usually stems from the communication method used. Red team vs blue team fails people with Colour Vision Deficiency, different audio cues fails people with hearing loss. By using multimodal communication (visual and audible and tactile) more players can be accommodated.
+Players with neurodiversity or cognitive impairments may struggle with differention challenges but inaccessibility from this type of challenge usually stems from the presentation method used. Red team vs blue team fails people with Colour Vision Deficiency, different audio cues fails people with hearing loss. By using multimodal communication (visual and audible and tactile) more players can be accommodated.
 
 ### Interpretation
 
