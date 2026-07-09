@@ -13,10 +13,22 @@
 - part 2 What features can help?
 - List of current accessibility standards that may relate to games?
 
-## Components of challenge
 
+## Intentional vs unintentional friction
 All games contain inherent challenge. This is what makes them enjoyable and identifies them as a game
 ... offer greater explanation and evidence of this point ...
+
+<  Summarise this section from the GAP analysis  > 
+
+## Components of challenge
+
+Examples of challenge for diffreent genres are:
+Platformer games 
+- precise spatial/timing execution — judging jump arcs, distances, and timing under a moving camera or scrolling constraint.
+Action/Hack-and-Slash
+- real-time reflex management — reading enemy telegraphs and executing dodge/parry/attack timing under pressure.
+
+- 
 
 Challenges themselves can be broken down into eight components
 
@@ -32,6 +44,8 @@ Categorising entities (friend/foe, useful/harmful)
 Extracting meaning from currently-presented sensory data
 ### Memory
 Recalling information no longer presented
+### Spatial awareness
+Positional/trajectory modeling and keeping track of objects in a virtual environment.
 ### Strategy
 Choosing between options with different known outcomes
 ### Divided Attention
@@ -57,6 +71,7 @@ Players with neurodiversity or cognitive impairments may struggle with different
 ### Interpretation
 
 
+### Spatial awareness
 
 ### Memory
 Players with memory loss will find challenges that are reliant on memory inaccessible. Consider whether memory is truly an integral part of the challenge (Kim's game, pexeso) or a contributing factor (remembering a sequence to defeat a boss. If it is a contributing factor then it may be possible to create a record of the information that a player can refer to without fatally diminishing challenge.   
