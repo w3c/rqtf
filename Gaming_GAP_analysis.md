@@ -22,7 +22,7 @@ As much as possible a good candidate should attempt to be comprehensive to enabl
 A good candidate should invite critique from as wide a range of stakeholders as possible to enable it to be as comprehensive and fit for purpose as possible. 
 
 ### Intentional friction
-There is a body of work that highlights the need for some friction in gaming, meaning that a standard approach to accessibility of trying to remove all friction or barriers is inappropriate.
+There is a body of work that highlights the need for some friction in gaming. This means that a standard approach to accessibility of trying to remove all friction or barriers would be inappropriate. Not only would it constitute fundamental alteration of the game which may be considered an unreasonable requirement but it would actually break the game experience itself.
 
 #### The perception of difficulty
 [Ian Hamilton's Difficulty vs Accessibility talk](youtube.com/watch?v=sPehhHZvKE8&feature=youtu.be) at GAConf USA 2021 highlighted that there is no fixed difficulty for a game. Games present barriers and players have capabilities and the level of difficulty that arises comes from trying to overcome the given barriers with a user's unique set of capabilities. Disabled people will have reduced capabilities meaning they will face higher difficulty for the same set of presented barriers. He states that "Accessibility = avoiding unnecessary mismatch between capability and barrier". Steve Saylor framed this to say that accessibility is a way to [bring the difficulty back towards the intended level](https://kotaku.com/accessibility-difficulty-easy-mode-explained-1851261475).  
@@ -109,5 +109,21 @@ The [Digital Accessibility Framework](https://accessiblecommunity.org/daf) exten
 The Digital Accessibility Framework is focused on user needs, it is pan disability and it is very comprehensive. Being a multi-use tool it doesn't include the requirement for challenge in gaming and it is also a very low level tool in that it looks at user experience at a very fine granularity. This makes it helpful to design and test a targeted accessibility user requirements document but it is likely too technical and too broad in scope to be usable as one.    
 
 ## Evaluation of existing resources
+There is a large corpus of accessibility standards that could apply to gaming. 
+
+### Focus on the user experience
+Documents such as ISO/IEC 29138-1:2018 cover the full spectrum of user needs from interfaces including the needs of people with and without disabilities. The Accessibility User Requires documents from the RQTF group (the XAUR, MAUR and NAUR) then explicitly identify user needs for disabled audiences as do Content Usable from the COGA taskforce and the AbleGamers Toolkit.
+
+### Cover multiple disabilities
+Although many of the standards do not cover the full spectrum of accessibilty, between them they leave no obvious gaps in terms of disabilities covered.
+
+### Comprehensive
+The Game Accessibility Guidelines offer a very full list of accessibility features that games could require and ISO/IEC 29138-1:2018 is comprehensive to the point that it isn't restricted to just accessibility user requirements but all user requirements. 
+
+### Collaborative
+The Game Accessibility Guidelines have been created by accessibility experts from the gaming industry and content creation within the W3C follows collaborative processes that invite comments from outside the organisation.   
+
+### Understand intentional friction in gaming
+This is identified in the RNIB Devkit through the need to preserve challenge but not explored any further than that. 
 
 ## Proposal
