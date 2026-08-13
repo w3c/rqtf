@@ -109,7 +109,7 @@ The [Digital Accessibility Framework](https://accessiblecommunity.org/daf) exten
 The Digital Accessibility Framework is focused on user needs, it is pan disability and it is very comprehensive. Being a multi-use tool it doesn't include the requirement for challenge in gaming and it is also a very low level tool in that it looks at user experience at a very fine granularity. This makes it helpful to design and test a targeted accessibility user requirements document but it is likely too technical and too broad in scope to be usable as one.    
 
 ## Evaluation of existing resources
-There is a large corpus of accessibility standards that could apply to gaming. 
+There is a large corpus of accessibility standards that could apply to gaming. Across the five suggested characteristics of an ideal candidate, existing resources collectively cover four reasonably well. The exception, and the clearest gap, is the treatment of intentional friction.
 
 ### Focus on the user experience
 Documents such as ISO/IEC 29138-1:2018 cover the full spectrum of user needs from interfaces including the needs of people with and without disabilities. The Accessibility User Requires documents from the RQTF group (the XAUR, MAUR and NAUR) then explicitly identify user needs for disabled audiences as do Content Usable from the COGA taskforce and the AbleGamers Toolkit.
@@ -124,6 +124,35 @@ The Game Accessibility Guidelines offer a very full list of accessibility featur
 The Game Accessibility Guidelines have been created by accessibility experts from the gaming industry and content creation within the W3C follows collaborative processes that invite comments from outside the organisation.   
 
 ### Understand intentional friction in gaming
-This is identified in the RNIB Devkit through the need to preserve challenge but not explored any further than that. 
+This is the characteristic where existing resources fall furthest short, and it is the central gap this analysis identifies.
+
+Several sources establish that intentional friction exists and matters. Hamilton frames accessibility as avoiding unnecessary mismatch between capability and barrier, implying that some mismatch is necessary. The IGDA-GASIG guidance states plainly that games need "some degree of inaccessibility" and frames accessibility work as an optimisation problem. Westin's Game Accessibility Paradox goes further, distinguishing normative game rules (which cannot change without creating a different game) from performative mechanics (which can often be adapted), and notes as an illustrative example that small text size is rarely core to a game's mechanic even where it is frequently presented as a barrier. The RNIB Devkit's CAPS test (Challenge, Agency, Participation, Story) recognises that challenge specifically must be preserved for a game to remain attractive to disabled players.
+
+None of these, however, supplies a method for making the underlying judgement. They assert that a line exists between friction that is essential to a game's identity and friction that is merely an unaddressed barrier, but they do not describe how a developer, tester, or standards body should draw that line for a given game, mechanic, or feature. The general accessibility user requirements documents (XAUR, MAUR, NAUR, COGA) are explicit that intentional friction is not a relevant concept for their domains, so they offer no transferable methodology either. The Digital Accessibility Framework and FAST, despite their comprehensiveness, are generic across all digital technologies and have no mechanism for representing "friction that should be preserved" as distinct from "friction that should be removed."
+
+The result is a body of work that is unanimous on the principle (some friction must stay) but silent on the process (how do you tell which friction that is, consistently and defensibly, across genres and disabilities). This is the gap a GAUR is best placed to fill, since it sits at the intersection of user-needs documentation and games-specific domain knowledge that none of the existing candidates individually possess.
 
 ## Proposal
+Rather than attempting to be the most comprehensive catalogue of accessibility features, a GAUR should prioritise being the resource that closes this specific gap: a working methodology for distinguishing essential (intentional) friction from unnecessary (unintentional) friction, expressed in terms of user needs rather than developer solutions.
+
+Such a methodology should aim to:
+
+### Define the unit of analysis. 
+Establish whether the intentional/unintentional judgement is made at the level of the whole game, an individual mechanic, a specific barrier instance, or some combination, since existing sources move between these levels without being explicit about it (e.g. Westin's rules/mechanics split vs. the CAPS test's whole-game framing).
+
+### Provide a decision test. 
+Building on Westin's normative/performative distinction and the IGDA-GASIG optimisation framing, a GAUR should offer a repeatable question or set of questions (e.g. "does removing this barrier change what the player is being asked to do, or only how they are asked to do it?") that can be applied consistently by people who are not accessibility specialists.
+
+### Anchor the test to player-facing outcomes, not implementation. 
+Consistent with the "focus on user experience" principle, the test should describe what preserved challenge should feel like to the player, so it remains valid as technology changes, rather than prescribing specific mechanics.
+
+### Consider variation across disability types. 
+A barrier that is unnecessary friction for one impairment may be part of the intended challenge for another (e.g. a memory-based puzzle could be a valid challenge for someone with sight loss but create inaccessibility for a player with a cognitive impairment). The methodology needs to consider this per-audience distinction and how to account for it in recommendations.
+
+### Produce a defensible, auditable output. 
+For the methodology to usefully inform a formal standard, its outputs need to be consistent enough that two independent assessors would classify the same barrier the same way, and transparent enough that a developer or regulator can see why a given piece of friction was classified as essential or not.
+
+### Be created collaboratively. 
+In line with the "collaborative" characteristic, the methodology should invite input from developers, disabled players, and accessibility specialists to check that it produces sensible, workable and non-controversial results. 
+
+Developing and validating this methodology, rather than re-deriving a full accessibility feature catalogue (which the Game Accessibility Guidelines and APX already provide), would be the highest-value contribution a GAUR could make, and the one piece of the puzzle current resources do not supply.
