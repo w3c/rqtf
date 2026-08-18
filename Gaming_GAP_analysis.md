@@ -34,8 +34,6 @@ In the [IGDA-GASIG page on how to make games accessible](https://igda-gasig.org/
 #### Game Accessibility Paradox
 In the article [Game accessibility course design modules in higher education](https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2024.1182541/full)) Thomas Westin describes this as the Game Accessibility Paradox. The author argues that games can be described by a series of strict rules for playing the game which are normative. They can't be changed without fundamentally altering the game and effectively creating a new, different, game. The player interacts with these through game mechanics which are performative. They conclude that the two main approaches for accessibility are removing barriers that aren't needed for core gameplay or creating special games that use a different modality (such as audiogames). They note that a third option is to make modifications that alter the game rules creating a new game.
 
-- "...there are for instance few games if any where the core game mechanic is to be able to read text in small font sizes, yet this challenge is often present."
-
 These examples highlight the need to retain some inaccessible features to preserve the challenge of a game but make no recommendation of a formal process to identify which features need retaining. 
 
 ## Existing resouces 
