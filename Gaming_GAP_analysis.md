@@ -135,14 +135,8 @@ Rather than attempting to be the most comprehensive catalogue of accessibility f
 
 Such a methodology should aim to:
 
-### Define the unit of analysis. 
-Establish whether the intentional/unintentional judgement is made at the level of the whole game, an individual mechanic, a specific barrier instance, or some combination, since existing sources move between these levels without being explicit about it (e.g. Westin's rules/mechanics split vs. the CAPS test's whole-game framing).
-
 ### Provide a decision test. 
-Building on Westin's normative/performative distinction and the IGDA-GASIG optimisation framing, a GAUR should offer a repeatable question or set of questions (e.g. "does removing this barrier change what the player is being asked to do, or only how they are asked to do it?") that can be applied consistently by people who are not accessibility specialists.
-
-### Anchor the test to player-facing outcomes, not implementation. 
-Consistent with the "focus on user experience" principle, the test should describe what preserved challenge should feel like to the player, so it remains valid as technology changes, rather than prescribing specific mechanics.
+Building on Westin's normative/performative distinction and the IGDA-GASIG optimisation framing, a GAUR should offer a repeatable question or set of questions (e.g. "Does removing this barrier fundamentally alter the challenge presented or just one possible implementation of the challenge? Is the intended friction intrinsically linked to a user ability such as sight, hearing, or memory? Does removing this barrier change what the player is being asked to do, or only how they are asked to do it?") that can be applied consistently by people who are not accessibility specialists.
 
 ### Consider variation across disability types. 
 A barrier that is unnecessary friction for one impairment may be part of the intended challenge for another (e.g. a memory-based puzzle could be a valid challenge for someone with sight loss but create inaccessibility for a player with a cognitive impairment). The methodology needs to consider this per-audience distinction and how to account for it in recommendations.
