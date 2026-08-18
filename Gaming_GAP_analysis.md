@@ -60,7 +60,7 @@ Audio Description Project (ADP) Gaming Subcommittee
 ACB has produced a [Best Practices for Audio Description in Video Games](https://adp.acb.org/sites/default/files/2025-11/AD%20in%20Gaming%20Best%20Practices%20%281%29.docx) document. This focuses on audio description within a game. This is not comprehensive enough to be used as a GAUR.  
 
 #### Xbox Accessibility Guidelines
-[Xbox Accessibility Guidelines](https://learn.microsoft.com/en-us/gaming/accessibility/guidelines) 
+The [Xbox Accessibility Guidelines](https://learn.microsoft.com/en-us/gaming/accessibility/guidelines) cover a wide range of disabilities and appear to be fairly comprehensive. 
 
 ### Applicable user requirements documents
 
