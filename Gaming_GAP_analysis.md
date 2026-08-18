@@ -1,7 +1,7 @@
 # GAP analysis of accessibility standards in Gaming
 
 ## Purpose
-To identify or bring about a description of good user experience in the realm of accessible gaming that can be used as a stepping-stone to a games accessibility standard. 
+To identify or bring about a description of good user experience in the realm of accessible gaming that can be used as a foundation for accreditation and regulation.
 
 ### Characteristics of an ideal candidate 
 These are the characteristics of an ideal candidate which current resources will be judged against. This is not to say that a GAUR if created would be able to fulfil all of these but it would aim to.  
@@ -60,7 +60,7 @@ Audio Description Project (ADP) Gaming Subcommittee
 ACB has produced a [Best Practices for Audio Description in Video Games](https://adp.acb.org/sites/default/files/2025-11/AD%20in%20Gaming%20Best%20Practices%20%281%29.docx) document. This focuses on audio description within a game. This is not comprehensive enough to be used as a GAUR.  
 
 #### Xbox Accessibility Guidelines
-The [Xbox Accessibility Guidelines](https://learn.microsoft.com/en-us/gaming/accessibility/guidelines) cover a wide range of disabilities and appear to be fairly comprehensive. 
+The [Xbox Accessibility Guidelines](https://learn.microsoft.com/en-us/gaming/accessibility/guidelines) cover a wide range of disabilities and appear to be fairly comprehensive. They discuss game difficulty and recommend adjustable difficulty levels to allow players to find the level that suits them but don't address situations where the nature of the challenge creates an absolute block.  
 
 ### Applicable user requirements documents
 
