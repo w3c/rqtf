@@ -5,6 +5,10 @@
 - potentially a list of desirable friction (examples of friction and barriers that are essential parts of gameplay),
 - suggestions on how to avoid unneccessary friction while retaining challenge (for described examples of challenge suggest ways to make them accessible),
 - an attempt at universality (after describing known mechanisms offer interaction patterns that may match new gameplay mechanics)
+- a taxonomy of accessibility levels?
+  - universal playability - it can be used by as many people as possible even if this means fundamental alteration
+  - foundational accessibility - it is as accessible as possible without diminishing the core challenge or creating a new game
+  - full accessibility vs critical path accessibility
 
 ## Potential structure
 - intro
