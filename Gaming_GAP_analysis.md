@@ -1,15 +1,15 @@
 # GAP analysis of accessibility standards in Gaming
 
-Games require an element of challenge which can be thought of as 'intentional friction'. Accessibility guidance aims to reduce all friction because friction creates inaccessibility for groups of people. Therefore games accessibility guidance requires a different approach to other accessibility guidance.
+Games require an element of challenge which can be thought of as 'intentional friction'. Accessibility guidance aims to reduce all friction because friction creates inaccessibility for groups of people. Therefore accessibility guidance aimed at gaming needs a different approach to standard accessibility guidance.
 
-## Purpose
-To identify or bring about a description of good user experience in the realm of accessible gaming that can be used as a foundation for accreditation and regulation.
+## Purpose 
+To identify or bring about a description of good user experience in the realm of accessible gaming. If a description needs to be created then the Research Questions Task Force intends to write this description and name it the Games Accessibility User Requirements in line with an existing naming scheme.
 
 ### Characteristics of an ideal candidate 
-These are the characteristics of an ideal candidate which current resources will be judged against. This is not to say that a GAUR if created would be able to fulfil all of these but it would aim to.  
+These are the characteristics of an ideal candidate which current resources will be judged against. This is not to say that a GAUR if created will be able to fulfil all of these but it should aim to.  
 
 #### Focus on the user experience
-A good candidate would attempt to describe good user experience as a first step towards an accessibility standard. By focusing on the requirements of the user rather than the options available to a developer the candidate can describe 'what good looks like' regardless of how achievable 'good' is with current technologies. This is important to enable a realistic assesment of progress and also to futureproof the work.
+A good candidate will attempt to describe good user experience as a first step towards an accessibility standard. By focusing on the requirements of the user rather than the options available to a developer the candidate can describe 'what good looks like' regardless of how achievable 'good' is with current technologies. This is important to enable a realistic assesment of progress and also to futureproof the work.
 
 #### Understand intentional friction in gaming
 Any accessibility standard will need to avoid requiring 'fundamental alteration' and gaming requires intentional friction in order to provide a challenge. A good candidate should differentiate between intentional and unintentional friction (signal vs noise) to preserve what makes games engaging while minimising inaccessibility. This should enable it to inform the creation of a workable standard.    
