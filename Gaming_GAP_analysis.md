@@ -141,7 +141,7 @@ Building on Westin's normative/performative distinction and the IGDA-GASIG optim
 A barrier that is unnecessary friction for one impairment may be part of the intended challenge for another (e.g. a memory-based puzzle could be a valid challenge for someone with sight loss but create inaccessibility for a player with a cognitive impairment). The methodology needs to consider this per-audience distinction and how to account for it in recommendations.
 
 ### Produce a defensible, auditable output. 
-For the methodology to usefully inform a formal standard, its outputs need to be consistent enough that two independent assessors would classify the same barrier the same way, and transparent enough that a developer or regulator can see why a given piece of friction was classified as essential or not.
+For the methodology to usefully inform a formal standard, its outputs need to be consistent enough that two independent assessors would classify the same barrier the same way, and transparent enough that a developer can see why a given piece of friction was classified as essential or not.
 
 ### Be created collaboratively. 
 In line with the "collaborative" characteristic, the methodology should invite input from developers, disabled players, and accessibility specialists to check that it produces sensible, workable and non-controversial results. 
