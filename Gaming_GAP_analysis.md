@@ -1,6 +1,6 @@
 # GAP analysis of accessibility standards in Gaming
 
-Games require an element of challenge which can be thought of as 'intentional friction'. Accessibility guidance aims to reduce all friction because friction creates inaccessibility for groups of people. Therefore accessibility guidance aimed at gaming needs a different approach to standard accessibility guidance.
+Games require an element of challenge which can be thought of as 'intentional friction'. Accessibility guidance aims to reduce all friction because friction creates inaccessibility for groups of people. Therefore accessibility guidance aimed at gaming needs a different approach to standard accessibility guidance. This gap analysis researches existing accessibility guidance that could apply to gaming and finds that there is no robust mechanism for identifying and preserving 'intentional friction'. It proposes that a Games Accessibility User Requirements (GAUR) document is created to address this unmet need. 
 
 ## Purpose 
 To identify or bring about a description of good user experience in the realm of accessible gaming. If a description needs to be created then the Research Questions Task Force intends to write this description and name it the Games Accessibility User Requirements in line with an existing naming scheme.
