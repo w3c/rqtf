@@ -1,5 +1,7 @@
 # GAP analysis of accessibility standards in Gaming
 
+Games require an element of challenge which can be thought of as 'intentional friction'. Accessibility guidance aims to reduce all friction because friction creates inaccessibility for groups of people. Therefore games accessibility guidance requires a different approach to other accessibility guidance.
+
 ## Purpose
 To identify or bring about a description of good user experience in the realm of accessible gaming that can be used as a foundation for accreditation and regulation.
 
