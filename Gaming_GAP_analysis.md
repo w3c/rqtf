@@ -2,38 +2,35 @@
 
 Games require an element of challenge which can be thought of as 'intentional friction'. Accessibility guidance aims to reduce all friction because friction creates inaccessibility for groups of people. Therefore accessibility guidance aimed at gaming needs a different approach to standard accessibility guidance. This gap analysis researches existing accessibility guidance that could apply to gaming and finds that there is no robust mechanism for identifying and preserving 'intentional friction'. It proposes that a Games Accessibility User Requirements (GAUR) document is created to address this unmet need. 
 
-## Purpose 
-To identify or bring about a description of good user experience in the realm of accessible gaming. If a description needs to be created then the Research Questions Task Force intends to write this description and name it the Games Accessibility User Requirements in line with an existing naming scheme.
-
-### Characteristics of an ideal candidate 
+## Characteristics of an ideal candidate 
 These are the characteristics of an ideal candidate which current resources will be judged against. This is not to say that a GAUR if created will be able to fulfil all of these but it should aim to.  
 
-#### Focus on the user experience
+### Focus on the user experience
 A good candidate will attempt to describe good user experience as a first step towards an accessibility standard. By focusing on the requirements of the user rather than the options available to a developer the candidate can describe 'what good looks like' regardless of how achievable 'good' is with current technologies. This is important to enable a realistic assesment of progress and also to futureproof the work.
 
-#### Understand intentional friction in gaming
+### Understand intentional friction in gaming
 Any accessibility standard will need to avoid requiring 'fundamental alteration' and gaming requires intentional friction in order to provide a challenge. A good candidate should differentiate between intentional and unintentional friction (signal vs noise) to preserve what makes games engaging while minimising inaccessibility. This should enable it to inform the creation of a workable standard.    
 
-#### Cover multiple disabilities
+### Cover multiple disabilities
 A good candidate should cover as wide a range if disabilities as is practical including sight loss, hearing loss, neurodiversity, cognitive impairments and physical disabilities.
 
-#### Comprehensive 
+### Comprehensive 
 As much as possible a good candidate should attempt to be comprehensive to enable any standards it informs to also be as comprehesive as possible. This may require a high level of abstraction in order to avoid gaps. 
 
-#### Collaborative 
+### Collaborative 
 A good candidate should invite critique from as wide a range of stakeholders as possible to enable it to be as comprehensive and fit for purpose as possible. 
 
-### Intentional friction
+## Intentional friction
 There is a body of work that highlights the need for some friction in gaming. This means that a standard approach to accessibility of trying to remove all friction or barriers would be inappropriate. Not only would it constitute fundamental alteration of the game which may be considered an unreasonable requirement but it could actually break the game experience itself.
 
-#### The perception of difficulty
+### The perception of difficulty
 [Ian Hamilton's Difficulty vs Accessibility talk](youtube.com/watch?v=sPehhHZvKE8&feature=youtu.be) at GAConf USA 2021 highlighted that there is no fixed difficulty for a game. Games present barriers and players have capabilities and the level of difficulty that arises comes from trying to overcome the given barriers with a user's unique set of capabilities. Disabled people will have reduced capabilities meaning they will face higher difficulty for the same set of presented barriers. He states that "Accessibility = avoiding unnecessary mismatch between capability and barrier". Steve Saylor framed this to say that accessibility is a way to [bring the difficulty back towards the intended level](https://kotaku.com/accessibility-difficulty-easy-mode-explained-1851261475).  
 
-#### The need to preserve inaccessibility 
+### The need to preserve inaccessibility 
 In the [IGDA-GASIG page on how to make games accessible](https://igda-gasig.org/how/) it states:
 "All games must contain some degree of inaccessibility in order to be a game. There must be some kind of challenge. This necessary inaccessibility varies from game to game. It makes accessibility an optimisation process – thinking about the barriers your game may present, which of those are a necessary part of what makes it fun, and which are not."
 
-#### Game Accessibility Paradox
+### Game Accessibility Paradox
 In the article [Game accessibility course design modules in higher education](https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2024.1182541/full)) Thomas Westin describes this as the Game Accessibility Paradox. The author argues that games can be described by a series of strict rules for playing the game which are normative. They can't be changed without fundamentally altering the game and effectively creating a new, different, game. The player interacts with these through game mechanics which are performative. They conclude that the two main approaches for accessibility are removing barriers that aren't needed for core gameplay or creating special games that use a different modality (such as audiogames). They note that a third option is to make modifications that alter the game rules creating a new game.
 
 These examples highlight the need to retain some inaccessible features to preserve the challenge of a game but make no recommendation of a formal process to identify which features need retaining. 
