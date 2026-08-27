@@ -52,10 +52,10 @@ The [Accessible Player Experiences (APX)](https://accessible.games/accessible-pl
 
 #### RNIB Devkit
 [RNIB Best Practice in Accessible Gaming 2025](https://github.com/RNIB-MediaAndCulture/Gaming_Devkit/blob/main/Devkit.md)
-The accessible gaming devkit from RNIB (Royal National Institute of Blind People) contains high level advice for games developers. A unique feature is the CAPS test which states that Challenge, Agency, Participation and Story are important in gaming and these need to be preserved to ensure that game is still attractive to gamers with disabilities. Whilst it recognises the need for challenge the Devkit is focussed on accessibility for gamers with sightloss.
+The accessible gaming devkit from RNIB (Royal National Institute of Blind People) contains high level advice for games developers. A unique feature is the CAPS test which states that Challenge, Agency, Participation and Story are important in gaming and these need to be preserved to ensure that game is still attractive to gamers with disabilities. Whilst it recognises the need for challenge the Devkit offers no advice on how to identify intentional friction. It is also focussed on accessibility for gamers with sightloss.
 
 #### WCAG
-The [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/) are currently at version 2.2 and are already being used to assess games accessibility in the case of Section 508 in the USA.  
+The [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/) are currently at version 2.2 and an earlier version is already being used to assess games accessibility in the case of Section 508 in the USA.  
 
 #### ADP from ACB
 Audio Description Project (ADP) Gaming Subcommittee
