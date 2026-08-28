@@ -109,10 +109,10 @@ The Digital Accessibility Framework is focused on user needs, it is pan disabili
 There is a large corpus of accessibility guidance that could apply to gaming. Across the five suggested criteria of effective games accessibility guidance, existing resources collectively cover four reasonably well. The exception, and the clearest gap, is the treatment of intentional friction.
 
 ### Focus on the user experience
-Documents such as ISO/IEC 29138-1:2018 cover the full spectrum of user needs from interfaces including the needs of people with and without disabilities. The Accessibility User Requires documents from the RQTF group (the XAUR, MAUR and NAUR) then explicitly identify user needs for disabled audiences as do Content Usable from the COGA taskforce and the AbleGamers Toolkit.
+Documents such as ISO/IEC 29138-1:2018 cover the full spectrum of user needs from interfaces including the needs of people with and without disabilities. The Accessibility User Requires documents from the RQTF group (the XAUR, MAUR and NAUR) then explicitly identify user needs for disabled audiences as do Making Content Usable for People with Cognitive and Learning Disabilities from the COGA taskforce and the AbleGamers Toolkit.
 
 ### Cover multiple disabilities
-Although many of the standards do not cover the full spectrum of accessibilty, between them they leave no obvious gaps in terms of disabilities covered.
+Although many of the individual standards do not cover the full spectrum of accessibilty, between them they leave no obvious gaps in terms of disabilities covered.
 
 ### Comprehensive
 The Game Accessibility Guidelines offer a very full list of accessibility features that games could require and ISO/IEC 29138-1:2018 is comprehensive to the point that it isn't restricted to just accessibility user requirements but all user requirements. 
@@ -127,7 +127,7 @@ Several sources establish that intentional friction exists and matters. Hamilton
 
 None of these, however, supplies a method for making the underlying judgement. They assert that a line exists between friction that is essential to a game's identity and friction that is merely an unaddressed barrier, but they do not describe how a developer, tester, or standards body should draw that line for a given game, mechanic, or feature. The general accessibility user requirements documents (XAUR, MAUR, NAUR, COGA) are explicit that intentional friction is not a relevant concept for their domains, so they offer no transferable methodology either. The Digital Accessibility Framework and FAST, despite their comprehensiveness, are generic across all digital technologies and have no mechanism for representing "friction that should be preserved" as distinct from "friction that should be removed."
 
-The result is a body of work that is unanimous on the principle (some friction must stay) but silent on the process (how do you tell which friction that is, consistently and defensibly, across genres and disabilities). This is the gap a GAUR is best placed to fill, since it sits at the intersection of user-needs documentation and games-specific domain knowledge that none of the existing candidates individually possess.
+The result is a body of work that is unanimous on the principle (some friction must stay) but silent on the process (how do you tell which friction that is, consistently and defensibly, across genres and disabilities). This is the gap a working group Note is best placed to fill, since it sits at the intersection of user-needs documentation and games-specific domain knowledge that none of the existing candidates individually possess.
 
 ## Proposal
 Rather than attempting to collate a comprehensive catalogue of accessibility features, work should prioritise creating the resource that closes this specific gap: a working methodology for distinguishing essential (intentional) friction from unnecessary (unintentional) friction, expressed in terms of user needs rather than developer solutions.
