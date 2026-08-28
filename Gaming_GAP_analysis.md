@@ -1,24 +1,24 @@
 # GAP analysis of accessibility standards in Gaming
 
-Games require an element of challenge which can be thought of as 'intentional friction'. Accessibility guidance aims to reduce all friction because friction creates inaccessibility for groups of people. Therefore accessibility guidance aimed at gaming needs a different approach to standard accessibility guidance. This gap analysis researches existing accessibility guidance that could apply to gaming and finds that there is no robust mechanism for identifying and preserving 'intentional friction'. It proposes that a Games Accessibility User Requirements (GAUR) document is created to address this unmet need. 
+Games require an element of challenge which can be thought of as 'intentional friction'. Accessibility guidance aims to reduce all friction because friction creates inaccessibility for groups of people. Therefore accessibility guidance aimed at gaming needs a different approach to standard accessibility guidance. This gap analysis researches existing accessibility guidance that could apply to gaming and finds that there is no robust mechanism for identifying and preserving 'intentional friction'. It proposes that a W3C Working Group Note on game accessibility should be created to address the gap identified in the existing standards.
 
-## Characteristics of an ideal candidate 
-These are the characteristics of an ideal candidate which current resources will be judged against. This is not to say that a GAUR if created will be able to fulfil all of these but it should aim to.  
+## Requirements of games accessibility guidelines 
+Gaming standards and guidelines need to provide appropriate and effective guidance to games developers seeking to make their games accessible and assess the results of their efforts. In order to do this certain conditions need to be met. 
 
 ### Focus on the user experience
-A good candidate will attempt to describe good user experience as a first step towards an accessibility standard. By focusing on the requirements of the user rather than the options available to a developer the candidate can describe 'what good looks like' regardless of how achievable 'good' is with current technologies. This is important to enable a realistic assesment of progress and also to futureproof the work.
+Describing good user experience is an important first step towards an accessibility standard. By focusing on the requirements of the user rather than the options available to a developer guidance can describe 'what good looks like' regardless of how achievable 'good' is with current technologies. This is important to enable a realistic assesment of progress and also to futureproof standards work.
 
 ### Understand intentional friction in gaming
-Any accessibility standard will need to avoid requiring 'fundamental alteration' and gaming requires intentional friction in order to provide a challenge. A good candidate should differentiate between intentional and unintentional friction (signal vs noise) to preserve what makes games engaging while minimising inaccessibility. This should enable it to inform the creation of a workable standard.    
+Any accessibility standard will need to avoid requiring 'fundamental alteration' and gaming requires intentional friction in order to provide a challenge. There needs to be a robust way to differentiate between intentional and unintentional friction (signal vs noise) to preserve what makes games engaging while minimising inaccessibility. This should enable it to inform the creation of a workable standard.    
 
 ### Cover multiple disabilities
-A good candidate should cover as wide a range if disabilities as is practical including sight loss, hearing loss, neurodiversity, cognitive impairments and physical disabilities.
+Collectively games accessibility guidance needs cover as wide a range if disabilities as is practical including sight loss, hearing loss, neurodiversity, cognitive impairments and physical disabilities.
 
 ### Comprehensive 
-As much as possible a good candidate should attempt to be comprehensive to enable any standards it informs to also be as comprehesive as possible. This may require a high level of abstraction in order to avoid gaps. 
+As much as possible accessibility guidance should attempt to be comprehensive to enable any standards it informs to also be as comprehesive as possible. This may require a high level of abstraction in order to avoid gaps. 
 
 ### Collaborative 
-A good candidate should invite critique from as wide a range of stakeholders as possible to enable it to be as comprehensive and fit for purpose as possible. 
+Games accessibility guidance should invite critique from as wide a range of stakeholders as possible to enable it to be as comprehensive and fit for purpose as possible. 
 
 ## Intentional friction
 There is a body of work that highlights the need for some friction in gaming. This means that a standard approach to accessibility of trying to remove all friction or barriers would be inappropriate. Not only would it constitute fundamental alteration of the game which may be considered an unreasonable requirement but it could actually break the game experience itself.
@@ -106,7 +106,7 @@ The [Digital Accessibility Framework](https://accessiblecommunity.org/daf) exten
 The Digital Accessibility Framework is focused on user needs, it is pan disability and it is very comprehensive. Being a multi-use tool it doesn't include the requirement for challenge in gaming and it is also a very low level tool in that it looks at user experience at a very fine granularity. This makes it helpful to design and test a targeted accessibility user requirements document but it is likely too technical and too broad in scope to be usable as one.    
 
 ## Evaluation of existing resources
-There is a large corpus of accessibility standards that could apply to gaming. Across the five suggested characteristics of an ideal candidate, existing resources collectively cover four reasonably well. The exception, and the clearest gap, is the treatment of intentional friction.
+There is a large corpus of accessibility guidance that could apply to gaming. Across the five suggested characteristics of an ideal candidate, existing resources collectively cover four reasonably well. The exception, and the clearest gap, is the treatment of intentional friction.
 
 ### Focus on the user experience
 Documents such as ISO/IEC 29138-1:2018 cover the full spectrum of user needs from interfaces including the needs of people with and without disabilities. The Accessibility User Requires documents from the RQTF group (the XAUR, MAUR and NAUR) then explicitly identify user needs for disabled audiences as do Content Usable from the COGA taskforce and the AbleGamers Toolkit.
