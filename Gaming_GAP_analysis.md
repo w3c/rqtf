@@ -130,12 +130,12 @@ None of these, however, supplies a method for making the underlying judgement. T
 The result is a body of work that is unanimous on the principle (some friction must stay) but silent on the process (how do you tell which friction that is, consistently and defensibly, across genres and disabilities). This is the gap a GAUR is best placed to fill, since it sits at the intersection of user-needs documentation and games-specific domain knowledge that none of the existing candidates individually possess.
 
 ## Proposal
-Rather than attempting to be the most comprehensive catalogue of accessibility features, a GAUR should prioritise being the resource that closes this specific gap: a working methodology for distinguishing essential (intentional) friction from unnecessary (unintentional) friction, expressed in terms of user needs rather than developer solutions.
+Rather than attempting to collate a comprehensive catalogue of accessibility features, work should prioritise creating the resource that closes this specific gap: a working methodology for distinguishing essential (intentional) friction from unnecessary (unintentional) friction, expressed in terms of user needs rather than developer solutions.
 
 Such a methodology should aim to:
 
 ### Provide a decision test. 
-Building on Westin's normative/performative distinction and the IGDA-GASIG optimisation framing, a GAUR should offer a repeatable question or set of questions (e.g. "Does removing this barrier fundamentally alter the challenge presented or just one possible implementation of the challenge? Is the intended friction intrinsically linked to a user ability such as sight, hearing, or memory? Does removing this barrier change what the player is being asked to do, or only how they are asked to do it?") that can be applied consistently by people who are not accessibility specialists.
+Building on Westin's normative/performative distinction and the IGDA-GASIG optimisation framing, the working group Note should offer a repeatable question or set of questions (e.g. "Does removing this barrier fundamentally alter the challenge presented or just one possible implementation of the challenge? Is the intended friction intrinsically linked to a user ability such as sight, hearing, or memory? Does removing this barrier change what the player is being asked to do, or only how they are asked to do it?") that can be applied consistently by people who are not accessibility specialists.
 
 ### Consider variation across disability types. 
 A barrier that is unnecessary friction for one impairment may be part of the intended challenge for another (e.g. a memory-based puzzle could be a valid challenge for someone with sight loss but create inaccessibility for a player with a cognitive impairment). The methodology needs to consider this per-audience distinction and how to account for it in recommendations.
@@ -146,4 +146,4 @@ For the methodology to usefully inform a formal standard, its outputs need to be
 ### Be created collaboratively. 
 In line with the "collaborative" characteristic, the methodology should invite input from developers, disabled players, and accessibility specialists to check that it produces sensible, workable and non-controversial results. 
 
-Developing and validating this methodology, rather than re-deriving a full accessibility feature catalogue (which the Game Accessibility Guidelines and APX already provide), would be the highest-value contribution a GAUR could make, and the one piece of the puzzle current resources do not supply.
+Developing and validating this methodology, rather than re-deriving a full accessibility feature catalogue (which the Game Accessibility Guidelines and APX already provide), would be the highest-value contribution a Note could make, and the one piece of the puzzle current resources do not supply.
