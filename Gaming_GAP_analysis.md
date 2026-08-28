@@ -12,7 +12,7 @@ Describing good user experience is an important first step towards an accessibil
 Any accessibility standard will need to avoid requiring 'fundamental alteration' and gaming requires intentional friction in order to provide a challenge. There needs to be a robust way to differentiate between intentional and unintentional friction (signal vs noise) to preserve what makes games engaging while minimising inaccessibility. This should enable it to inform the creation of a workable standard.    
 
 ### Cover multiple disabilities
-Collectively games accessibility guidance needs cover as wide a range if disabilities as is practical including sight loss, hearing loss, neurodiversity, cognitive impairments and physical disabilities.
+Collectively games accessibility guidance needs to cover as wide a range of disabilities as is practical including sight loss, hearing loss, neurodiversity, cognitive impairments and physical disabilities.
 
 ### Comprehensive 
 As much as possible accessibility guidance should attempt to be comprehensive to enable any standards it informs to also be as comprehesive as possible. This may require a high level of abstraction in order to avoid gaps. 
