@@ -106,7 +106,7 @@ The [Digital Accessibility Framework](https://accessiblecommunity.org/daf) exten
 The Digital Accessibility Framework is focused on user needs, it is pan disability and it is very comprehensive. Being a multi-use tool it doesn't include the requirement for challenge in gaming and it is also a very low level tool in that it looks at user experience at a very fine granularity. This makes it helpful to design and test a targeted accessibility user requirements document but it is likely too technical and too broad in scope to be usable as one.    
 
 ## Evaluation of existing resources
-There is a large corpus of accessibility guidance that could apply to gaming. Across the five suggested characteristics of an ideal candidate, existing resources collectively cover four reasonably well. The exception, and the clearest gap, is the treatment of intentional friction.
+There is a large corpus of accessibility guidance that could apply to gaming. Across the five suggested criteria of effective games accessibility guidance, existing resources collectively cover four reasonably well. The exception, and the clearest gap, is the treatment of intentional friction.
 
 ### Focus on the user experience
 Documents such as ISO/IEC 29138-1:2018 cover the full spectrum of user needs from interfaces including the needs of people with and without disabilities. The Accessibility User Requires documents from the RQTF group (the XAUR, MAUR and NAUR) then explicitly identify user needs for disabled audiences as do Content Usable from the COGA taskforce and the AbleGamers Toolkit.
