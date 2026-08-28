@@ -56,7 +56,7 @@ The [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guid
 #### ADP from ACB
 Audio Description Project (ADP) Gaming Subcommittee
 
-ACB has produced a [Best Practices for Audio Description in Video Games](https://adp.acb.org/sites/default/files/2025-11/AD%20in%20Gaming%20Best%20Practices%20%281%29.docx) document. This focuses on audio description within a game. This is not comprehensive enough to be used as a GAUR.  
+ACB (The American Council of the Blind) has produced a [Best Practices for Audio Description in Video Games](https://adp.acb.org/sites/default/files/2025-11/AD%20in%20Gaming%20Best%20Practices%20%281%29.docx) document. This focuses solely on audio description within a game.   
 
 #### Xbox Accessibility Guidelines
 The [Xbox Accessibility Guidelines](https://learn.microsoft.com/en-us/gaming/accessibility/guidelines) cover a wide range of disabilities and appear to be fairly comprehensive. They discuss game difficulty and recommend adjustable difficulty levels to allow players to find the level that suits them but don't address situations where the nature of the challenge creates an absolute block.  
