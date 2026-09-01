@@ -1,8 +1,8 @@
 # GAP analysis of accessibility standards in Gaming
 
-Inaccessibility in web content can be thought of as 'friction'. By definition therefore, any 'friction 'in web content means some persons with disabilities are unable to use that content. Accessibility guidance , such as the W3C Accessibility Guidelines (WCAG), consequently always aims to reduce or eliminate all friction in web content.
+Inaccessibility in web content can be thought of as 'friction'. By definition therefore, any 'friction' in web content means some persons with disabilities are unable to use that content. Accessibility guidance, such as the W3C Accessibility Guidelines (WCAG), consequently always aims to reduce or eliminate all friction in web content.
 
-Unlike most other web content however, games require an element of challenge which can be thought of as 'intentional friction'. Therefore accessibility guidance aimed at gaming needs a somewhat different and nuanced accessibility standardization approach.
+Unlike most other web content however, games require an element of challenge which can be thought of as 'intentional friction'. Therefore, accessibility guidance aimed at gaming needs a somewhat different and nuanced accessibility standardisation approach.
 
 This document reviews existing accessibility guidance that could apply to gaming and finds that there is no robust mechanism for identifying and preserving 'intentional friction'. It proposes that the Research Questions Task Force (RQTF) of the Accessible Platform Architectures (APA) Working Group be directed to develop a W3C Working Group Note on game accessibility to address this gap. This Note should provide a methodology to maximize accessibility while yet preserving sufficient friction to support meaningful gaming.
 
@@ -10,7 +10,7 @@ This document reviews existing accessibility guidance that could apply to gaming
 Gaming standards and guidelines need to provide appropriate and effective guidance to games developers seeking to make their games accessible and assess the results of their efforts. In order to do this certain conditions need to be met. 
 
 ### Focus on the user experience
-Describing good user experience is an important first step towards an accessibility standard. By focusing on the requirements of the user rather than the options available to a developer guidance can describe 'what good looks like' regardless of how achievable 'good' is with current technologies. This is important to enable a realistic assesment of progress and also to futureproof standards work.
+Describing good user experience is an important first step towards an accessibility standard. By focusing on the requirements of the user rather than the options available to a developer guidance can describe 'what good looks like' regardless of how achievable 'good' is with current technologies. This is important to enable a realistic assessment of progress and also to futureproof standards work.
 
 ### Understand intentional friction in gaming
 Any accessibility standard will need to avoid requiring 'fundamental alteration' and gaming requires intentional friction in order to provide a challenge. There needs to be a robust way to differentiate between intentional and unintentional friction (signal vs noise) to preserve what makes games engaging while minimising inaccessibility. This should enable it to inform the creation of a workable standard.    
@@ -19,13 +19,13 @@ Any accessibility standard will need to avoid requiring 'fundamental alteration'
 Collectively games accessibility guidance needs to cover as wide a range of disabilities as is practical including sight loss, hearing loss, neurodiversity, cognitive impairments and physical disabilities.
 
 ### Comprehensive 
-As much as possible accessibility guidance should attempt to be comprehensive to enable any standards it informs to also be as comprehesive as possible. This may require a high level of abstraction in order to avoid gaps. 
+As much as possible accessibility guidance should attempt to be comprehensive to enable any standards it informs to also be as comprehensive as possible. This may require a high level of abstraction in order to avoid gaps. 
 
 ### Collaborative 
 Games accessibility guidance should invite critique from as wide a range of stakeholders as possible to enable it to be as comprehensive and fit for purpose as possible. 
 
 ## Intentional friction
-There is a body of work that highlights the need for some friction in gaming. This means that a standard approach to accessibility of trying to remove all friction or barriers would be inappropriate. Not only would it constitute fundamental alteration of the game which may be considered an unreasonable requirement but it could actually break the game experience itself.
+There is a body of work that highlights the need for some friction in gaming. This means that a standard approach to accessibility of trying to remove all friction or barriers would be inappropriate. Not only would it constitute fundamental alteration of the game which may be considered an unreasonable requirement, but it could actually break the game experience itself.
 
 ### The perception of difficulty
 [Ian Hamilton's Difficulty vs Accessibility talk](https://youtube.com/watch?v=sPehhHZvKE8&feature=youtu.be) at GAConf USA 2021 highlighted that there is no fixed difficulty for a game. Games present barriers and players have capabilities and the level of difficulty that arises comes from trying to overcome the given barriers with a user's unique set of capabilities. Disabled people will have reduced capabilities in some respect meaning they will face higher difficulty for the same set of presented barriers. Within the talk he states that "Accessibility = avoiding unnecessary mismatch between capability & barrier". Steve Saylor framed this to say that accessibility is a way to [bring the difficulty back towards the intended level](https://kotaku.com/accessibility-difficulty-easy-mode-explained-1851261475).  
@@ -35,7 +35,7 @@ In the [IGDA-GASIG page on how to make games accessible](https://igda-gasig.org/
 "All games must contain some degree of inaccessibility in order to be a game. There must be some kind of challenge. This necessary inaccessibility varies from game to game. It makes accessibility an optimisation process – thinking about the barriers your game may present, which of those are a necessary part of what makes it fun, and which are not."
 
 ### Game Accessibility Paradox
-In the article [Game accessibility course design modules in higher education](https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2024.1182541/full)) Thomas Westin describes this as the Game Accessibility Paradox. The author argues that games can be described by a series of strict rules for playing the game which are normative. They can't be changed without fundamentally altering the game and effectively creating a new, different, game. The player interacts with these through game mechanics which are performative. They conclude that the two main approaches for accessibility are removing barriers that aren't needed for core gameplay or creating special games that use a different modality (such as audiogames). They note that a third option is to make modifications that alter the game rules creating a new game.
+In the article [Game accessibility course design modules in higher education](https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2024.1182541/full) Thomas Westin describes this as the Game Accessibility Paradox. The author argues that games can be described by a series of strict rules for playing the game which are normative. They can't be changed without fundamentally altering the game and effectively creating a new, different, game. The player interacts with these through game mechanics which are performative. They conclude that the two main approaches for accessibility are removing barriers that aren't needed for core gameplay or creating special games that use a different modality (such as audiogames). They note that a third option is to make modifications that alter the game rules creating a new game.
 
 These examples highlight the need to retain some inaccessible features to preserve the challenge of a game but make no recommendation of a formal process to identify which features need retaining. 
 
@@ -77,10 +77,10 @@ ISO/IEC 29138-1:2018 sets out user needs for all audiences. (I haven't been able
 The [XR Accessibility User Requirements](https://www.w3.org/TR/xaur/) describes user requirements for extended reality including virtual reality (a virtual world a user can explore), augmented reality (virtual elements overlaid on the real world), 360 content (immersive content a user can look around in while it's playing) and similar immersive virtual, or semi-virtual environments. It doesn't cover as broad a scope as gaming and doesn't contain discussion of intentional friction.
 
 #### MAUR
-The [Media Accessibility User Requirements](https://www.w3.org/TR/media-accessibility-reqs/) contain user requirements that relate to audio and visual content on the web. There will be crossover with gaming but much of the advice will be most relevent to cutscenes and games trailers. Intentional friction is not a relevent concept for the MAUR.   
+The [Media Accessibility User Requirements](https://www.w3.org/TR/media-accessibility-reqs/) contain user requirements that relate to audio and visual content on the web. There will be crossover with gaming but much of the advice will be most relevant to cutscenes and games trailers. Intentional friction is not a relevant concept for the MAUR.   
 
 #### NAUR
-The [Natural Language Interface Accessibility User Requirements](https://www.w3.org/TR/naur/) describes user requirements for natural language applications. This is relevent for a small number of current games. The number of games relying on natural language interfaces may increase with more ubiquitious use of AI but is likely to remain only a subset of the games ecosystem.  Intentional friction is not a relevent concept for the NAUR. 
+The [Natural Language Interface Accessibility User Requirements](https://www.w3.org/TR/naur/) describes user requirements for natural language applications. This is relevant for a small number of current games. The number of games relying on natural language interfaces may increase with more ubiquitous use of AI but is likely to remain only a subset of the games ecosystem.  Intentional friction is not a relevant concept for the NAUR. 
 
 ### Existing work within W3C
 #### HTML accessible Taskforce note on gaming
@@ -102,12 +102,12 @@ The workshop was a proposal for a solution rather than a declaration of user nee
 The [Framework for Accessible Specifications of Technologies](https://w3c.github.io/fast/#checklist) is ongoing work within W3C that attempts to identify user needs and the adaptations that may be needed to make those needs accessible. There is an accompanying checklist to help developers identify where their standards may fail accessibility-wise.
 
 #### Making Content Usable for People with Cognitive and Learning Disabilities
-The document [Making Content Usable for People with Cognitive and Learning Disabilities](https://www.w3.org/TR/coga-usable/#background) covers user requirements for people with cognitive and learning disabilities as well as relevent design patterns, a set of use cases and personas and advice on user testing with this audience. It covers a diverse audience but is not pan-disability. Intentional friction is not relevent to this document. 
+The document [Making Content Usable for People with Cognitive and Learning Disabilities](https://www.w3.org/TR/coga-usable/#background) covers user requirements for people with cognitive and learning disabilities as well as relevant design patterns, a set of use cases and personas and advice on user testing with this audience. It covers a diverse audience but is not pan-disability. Intentional friction is not relevant to this document. 
 
 ### Digital Accessibility Framework
 The [Digital Accessibility Framework](https://accessiblecommunity.org/daf) extends the idea of FAST to all digital technologies and attempts to create a comprehensive mapping of user needs to ways to address those needs through a diverse range of methods and modalities. A stated aim is to be futureproof and the framework therefore covers a far wider set of user experiences than are currently found in gaming or expected in the near future (such as smell and taste). 
 
-The Digital Accessibility Framework is focused on user needs, it is pan disability and it is very comprehensive. Being a multi-use tool it doesn't include the requirement for challenge in gaming and it is also a very low level tool in that it looks at user experience at a very fine granularity. This makes it helpful to design and test a standards document but it is likely too technical and too broad in scope to be usable as one.    
+The Digital Accessibility Framework is focused on user needs, it is pan disability and it is very comprehensive. Being a multi-use tool it doesn't include the requirement for challenge in gaming, and it is also a very low level tool in that it looks at user experience at a very fine granularity. This makes it helpful to design and test a standards document but it is likely too technical and too broad in scope to be usable as one.    
 
 ## Evaluation of existing resources
 There is a large corpus of accessibility guidance that could apply to gaming. Across the five suggested criteria of effective games accessibility guidance, existing resources collectively cover four reasonably well. The exception, and the clearest gap, is the treatment of intentional friction.
@@ -116,7 +116,7 @@ There is a large corpus of accessibility guidance that could apply to gaming. Ac
 Documents such as ISO/IEC 29138-1:2018 cover the full spectrum of user needs from interfaces including the needs of people with and without disabilities. The Accessibility User Requires documents from the RQTF group (the XAUR, MAUR and NAUR) then explicitly identify user needs for disabled audiences as do Making Content Usable for People with Cognitive and Learning Disabilities from the COGA taskforce and the AbleGamers Toolkit.
 
 ### Cover multiple disabilities
-Although many of the individual standards do not cover the full spectrum of accessibilty, between them they leave no obvious gaps in terms of disabilities covered.
+Although many of the individual standards do not cover the full spectrum of accessibility, between them they leave no obvious gaps in terms of disabilities covered.
 
 ### Comprehensive
 The Game Accessibility Guidelines offer a very full list of accessibility features that games could require and ISO/IEC 29138-1:2018 is comprehensive to the point that it isn't restricted to just accessibility user requirements but all user requirements. 
