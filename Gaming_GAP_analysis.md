@@ -1,6 +1,10 @@
 # GAP analysis of accessibility standards in Gaming
 
-Games require an element of challenge which can be thought of as 'intentional friction'. Accessibility guidance aims to reduce all friction because friction creates inaccessibility for groups of people. Therefore accessibility guidance aimed at gaming needs a different approach to standard accessibility guidance. This gap analysis researches existing accessibility guidance that could apply to gaming and finds that there is no robust mechanism for identifying and preserving 'intentional friction'. It proposes that a W3C Working Group Note on game accessibility should be created to address the gap identified in the existing standards.
+Inaccessibility in web content can be thought of as 'friction'. By definition therefore, any 'friction 'in web content means some persons with disabilities are unable to use that content. Accessibility guidance , such as the W3C Accessibility Guidelines (WCAG), consequently always aims to reduce or eliminate all friction in web content.
+
+Unlike most other web content however, games require an element of challenge which can be thought of as 'intentional friction'. Therefore accessibility guidance aimed at gaming needs a somewhat different and nuanced accessibility standardization approach.
+
+This document reviews existing accessibility guidance that could apply to gaming and finds that there is no robust mechanism for identifying and preserving 'intentional friction'. It proposes that the Research Questions Task Force (RQTF) of the Accessible Platform Architectures (APA) Working Group be directed to develop a W3C Working Group Note on game accessibility to address this gap. This Note should provide a methodology to maximize accessibility while yet preserving sufficient friction to support meaningful gaming.
 
 ## Requirements of games accessibility guidelines 
 Gaming standards and guidelines need to provide appropriate and effective guidance to games developers seeking to make their games accessible and assess the results of their efforts. In order to do this certain conditions need to be met. 
