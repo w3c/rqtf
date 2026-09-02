@@ -1,6 +1,6 @@
 # Notes for a potential future GAUR
 
-## Elements to include
+## Potential elements to include
 - a discussion of Intential vs Unintentianal friction,
 - potentially a list of desirable friction (examples of friction and barriers that are essential parts of gameplay),
 - suggestions on how to avoid unneccessary friction while retaining challenge (for described examples of challenge suggest ways to make them accessible),
